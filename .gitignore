@@ -1,0 +1,6 @@
+dist 
+/dist 
+node_modules
+uploads/*.jpg 
+uploads/*.png
+main.js 

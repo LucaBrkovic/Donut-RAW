@@ -1,0 +1,136 @@
+module.exports = {
+    products: [
+       { _id: "111111111111111111111111",
+        name: "Brownie Bomb",
+        category: "Diary",
+        image:"./images/Asset1.png",
+        price: 3.00,
+        Roling: "Donut",
+        Filling: "Nut nougat cream",
+        Glaze: "Milk-type icing containing cocoa",
+        Topping: "Brownie, Chopped Hazelnuts",
+        Sauce: "Milk-type icing containing cocoa",
+        count: 10
+
+    },
+    { _id: "2",
+        name: "Poppy Sugar",
+        category: "Vegan",
+        image:"./images/Asset2.png",
+        price: 2.00,
+        Roling: "Donut",
+        Glaze: "Sugarglase",
+        Topping: "Poppy",
+        Sauce: "Cocoa",
+        Filling: "Bionella",
+        count: 10
+        
+ 
+    },
+    { _id: "3",
+        name: "KidChoc Bomb",
+        category: "Diary",
+        image:"./images/Asset3.png",
+        price: 3.00,
+        Roling: "Donut",
+        Filling: "Nut nougat cream",
+        Glaze: "Milk-type icing containing cocoa",
+        Topping: "Kinder bars, chocolate shavings",
+        Sauce: "Milk-type icing containing cocoa",
+        count: 10
+
+    },
+    { _id: "4",
+        name: "Classic Kiwi",
+        category: "Vegan",
+        image:"./images/Asset4.png",
+        price: 2.00,
+        Roling: "Donut",
+        Glaze: "Sugarglase",
+        Sauce: "Kiwisauce",
+        Topping: "Kiwi",
+        Filling: "Kiwi cream",
+        count: 10
+        
+ 
+    },
+    { _id: "5",
+        name: "Milky Bomb",
+        category: "Diary",
+        image:"./images/Asset5.png",
+        price: 3.00,
+        Roling: "Donut",
+        Filling: "Nut nougat cream",
+        Glaze: "Milk-type icing containing cocoa",
+        Topping: "Bueno, chocolate shavings",
+        Sauce: "Milk-type icing containing cocoa",
+        count: 10
+    },
+    { _id: "6",
+        name: "Oreo Dark",
+        category: "Vegan",
+        image:"./images/Asset6.png",
+        price: 2.00,
+        Roling: "Donut",
+        Topping: "Oreo",
+        Sauce: "Dark chocolate",
+        Glaze: "Oreo chocolate glaze",
+        Filling: "Nut nougat cream",
+        count: 10
+
+ 
+    },
+    { _id: "7",
+        name: "Oreo Bomb",
+        category: "Diary",
+        image:"./images/Asset7.png",
+        price: 3.00,
+        Roling: "Donut",
+        Filling: "Nut nougat cream",
+        Glaze: "Milk-type icing containing cocoa",
+        Topping: "Oreo, Oreo crumbs",
+        Sauce: "Milk-type icing containing cocoa",
+        count: 10
+    },
+    { _id: "8",
+        name: "Almond Choc",
+        category: "Vegan",
+        image:"./images/Asset8.png",
+        price: 2.00,
+        Roling: "Donut",
+        Glaze: "Milk-type icing containing cocoa",
+        Topping: "Almond",
+        Sauce: "Almond-milk",
+        Filling: "Nut nougat cream",
+        count: 10
+
+
+    },
+    { _id: "9",
+        name: "Toffe Bomb",
+        category: "Diary",
+        image:"./images/Asset9.png",
+        price: 3.00,
+        Roling: "Donut",
+        Filling: "Nut nougat cream",
+        Glaze: "Milk-type icing containing cocoa",
+        Topping: "Toffifee",
+        Sauce: "Milk-type icing containing cocoa",
+        count: 10
+
+    },
+    { _id: "10",
+        name: "Choccy",
+        category: "Vegan",
+        image:"./images/Asset10.png",
+        price: 2.00,
+        Roling: "Donut",
+        Glaze: "Dark-type cocoa-based icing",
+        Filling: "Nut nougat cream",
+        Sauce:"Chocolate",
+        Topping: "Chocolate",
+        count: 10
+ 
+    },
+    ]
+}
